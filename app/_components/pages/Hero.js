@@ -1,4 +1,4 @@
-import { brandLogos } from "@/app/_data/brandLogos";
+import { brandLogos } from "../../_data/brandLogos";
 import Image from "next/image";
 import Link from "next/link";
 

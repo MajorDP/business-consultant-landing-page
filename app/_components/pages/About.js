@@ -1,4 +1,4 @@
-import { stats } from "@/app/_data/stats";
+import { stats } from "../../_data/stats";
 
 function About() {
   return (

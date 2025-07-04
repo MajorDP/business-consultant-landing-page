@@ -1,4 +1,4 @@
-import { sectors } from "@/app/_data/sectors";
+import { sectors } from "../../_data/sectors";
 import { Section } from "lucide-react";
 
 function Sectors() {
